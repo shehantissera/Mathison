@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Mathison</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="tvText">Your total is 0</string>
+    <string name="btnAdd">Add One</string>
+    <string name="btnSub">Subtract One</string>
+
+</resources>
